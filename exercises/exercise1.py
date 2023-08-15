@@ -17,7 +17,7 @@ assert area_cuadrado == 25
 
 """
 Re-Escribir usando el operador de potencia.
-"""
+
 
 lado_cuadrado = 5
 
