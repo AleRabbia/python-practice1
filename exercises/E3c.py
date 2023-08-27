@@ -9,8 +9,6 @@ superficie_de_campo_01 = 85121
 superficie_de_campo_02 = 851212
 superficie_de_campo_03 = 8512
 
-# COMPLETAR - INICIO
-
-# COMPLETAR - FIN
-
+comparar_superficie= superficie_de_campo_01 < (superficie_de_campo_02 > superficie_de_campo_03)
+print(comparar_superficie)
 assert comparar_superficie
